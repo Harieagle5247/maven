@@ -1,4 +1,4 @@
-node('master') 
+master
 {
     stage('Continuous Download') 
 	{
